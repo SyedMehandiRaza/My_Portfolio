@@ -527,9 +527,13 @@ button:focus {
 .text-highlight {
     color: #2857a4;
     font-weight: 600;
-
 }
-
+.text-highlight-skill{
+    /* color: black; */
+    color: #2857a4;
+    font-weight: 900;
+    font-size: large;
+}
 
 /* setting background-color */
 
@@ -628,3 +632,4 @@ button:focus {
     }
 
 }
+
